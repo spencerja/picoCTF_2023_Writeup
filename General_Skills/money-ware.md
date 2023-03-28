@@ -16,4 +16,5 @@ Searching this address we see several reports for multiple abuse types. Since we
 
 The title of the article plainly tells us the malware at play is based on the infamous ransomeware Petya, but we can also follow the link to learn more about it.
 
-We are told the answer to the flag is the malware involved, so we can submit the flag by inserting "Peta" into the picoCTF flag format.
+We are told the answer to the flag is the malware involved, so we can submit the flag by inserting "Petya" into the picoCTF flag format.
+picoCTF{Petya}
