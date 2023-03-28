@@ -77,7 +77,7 @@ picoplayer@challenge:~$ sudo vi /root/.flag.txt
 ```
 
 ```
-picoCTF{REDACTED}  
+picoCTF{uS1ng_v1m_3dit0r_021d10ab}  
 ~
 ~
 ```
