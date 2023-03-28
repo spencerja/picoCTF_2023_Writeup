@@ -59,5 +59,5 @@ Nothing up my sleeve!
 Now that the contents are displayed, perhaps one option can give us a flag?
 ```
 Specialer$ read IFR < ala/kazam.txt; echo $IFR  
-return 0 picoCTF{REDACTED}
+return 0 picoCTF{y0u_d0n7_4ppr3c1473_wh47_w3r3_d01ng_h3r3_38f5cc78}
 ```
