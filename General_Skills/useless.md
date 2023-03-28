@@ -108,7 +108,7 @@ Examples
 Authors  
     This script was designed and developed by Cylab Africa  
   
-    picoCTF{REDACTED}
+    picoCTF{us3l3ss_ch4ll3ng3_3xpl0it3d_5562}
 ```
 
 Turns out a man page exists, and our flag was placed here as well. Great..
