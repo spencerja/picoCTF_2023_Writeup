@@ -27,7 +27,7 @@ From our cat output we use | to redirect straight to another command, `base64`. 
 
 ```
 $ cat enc_flag | base64 -d | base64 -d | base64 -d | base64 -d | base64 -d | base64 -d  
-picoCTF{REDACTED}
+picoCTF{base64_n3st3d_dic0d!n8_d0wnl04d3d_492767d2}
 ```
 
 Finally after 6 rounds of decoding, the flag appears in plaintext. 
