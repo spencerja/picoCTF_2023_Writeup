@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "6fdef9d96d3b738b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0075af6cc741d75f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c336c99d46c61961",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Binary_Exploitation/tic-tac.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2523e31885b73502",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed84c7c0e7297590",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96454d4e52f57d4c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "89daa271f77883ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "326be304ce56a5fa",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c3443e90b9fe0fc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d80da615549763c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86d6209ada3dfccb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Binary_Exploitation/tic-tac.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "501b38da95e3e1f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Binary_Exploitation/tic-tac.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c3ffa906e5a6ecf0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "82eeba86ed858a3b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Binary_Exploitation/tic-tac.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "96454d4e52f57d4c",
+  "lastOpenFiles": [
+    "dfgs.md",
+    "Binary_Exploitation/tic-tac.md",
+    "Binary_Exploitation/two-sum.md",
+    "list.md",
+    "Untitled.md",
+    "Web_Exploitation/More_SQLi/Report.md",
+    "Web_Exploitation/More_SQLi/screencaps/Pasted image 20230328080756.png",
+    "Pasted image 20230328080011.png",
+    "Web_Exploitation/More_SQLi/screencaps/Pasted image 20230328080123.png",
+    "Pasted image 20230328075625.png.md",
+    "Web_Exploitation/SOAP/Report.md",
+    "Web_Exploitation/More_SQLi/screencaps/Pasted image 20230328075303.png",
+    "Pasted image 20230328075625.png",
+    "Web_Exploitation/More_SQLi/screencaps/Pasted image 20230328074947.png",
+    "Web_Exploitation/More_SQLi/screencaps/Pasted image 20230328074137.png",
+    "Forensics/Report.md",
+    "Forensics/Images/Pasted image 20230314175651.png",
+    "Web_Exploitation/findme/Report.md",
+    "Web_Exploitation/MatchTheRegex/Report.md",
+    "Web_Exploitation/More_SQLi/screencaps",
+    "Web_Exploitation/More_SQLi",
+    "Web_Exploitation/SOAP/screencaps/Pasted image 20230327210246.png",
+    "Web_Exploitation/SOAP/screencaps/Pasted image 20230327205640.png",
+    "Web_Exploitation/SOAP/screencaps",
+    "Web_Exploitation/SOAP",
+    "Web_Exploitation/MatchTheRegex/screencaps",
+    "Web_Exploitation/MatchTheRegex",
+    "Web_Exploitation/findme/screencaps",
+    "Web_Exploitation/findme",
+    "Forensics/Images",
+    "Binary_Exploitation"
+  ]
+}
