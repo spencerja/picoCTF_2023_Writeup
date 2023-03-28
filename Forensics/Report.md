@@ -97,4 +97,4 @@ flag.png: PNG image data, 600 x 50, 16-bit grayscale, non-interlaced
 ```
 
 Opening this image shows our flag.
-[image](https://github.com/spencerja/picoCTF_2023_Writeup/blob/main/Forensics/Images/Pasted%20image%2020230314175651.png)
+![image](https://github.com/spencerja/picoCTF_2023_Writeup/blob/main/Forensics/Images/Pasted%20image%2020230314175651.png)
