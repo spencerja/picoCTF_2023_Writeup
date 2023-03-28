@@ -25,5 +25,5 @@ Now that we have confirmed it is there, we can output the contents in plaintext 
 
 ```
 picoplayer@challenge:~$ cat /etc/crontab    
-# picoCTF{REDACTED}
+# picoCTF{Sch3DUL7NG_T45K3_L1NUX_7754e199}
 ```
