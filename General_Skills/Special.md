@@ -58,7 +58,7 @@ flag.txt
 
 Special$ \c\a\t \b\l\a\r\g\h\/\f\l\a\g\.\t\x\t  
 \c\a\t \b\l\a\r\g\h\/\f\l\a\g\.\t\x\t    
-picoCTF{REDACTED}
+picoCTF{5p311ch3ck_15_7h3_w0r57_6a2763f6}
 ```
 While this approached works, it is rather tedious and ugly. We can escape this special shell by invoking bash:
 ```
